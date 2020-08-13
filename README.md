@@ -51,4 +51,4 @@ $ localhost:5500
 
 ---
 
-Desenvolvido com 💜 por Carolina Nakashima
+Desenvolvido por Carolina Nakashima
