@@ -35,16 +35,16 @@ O projeto foi desenvolvido, utiizando as tecnologias:
 # Clone este repositório
 $ git clone <https://github.com/carolina-nakashima/proffy-nlw-discovery.git>
 
-# Acesse a pasta do projeto no terminal/cmd
+# Entre no diretório
 $ cd proffy-nlw-discovery
 
 # Instale as dependências
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+# Execute o servidor
 $ npm run dev
 
-# Abra o seu navegador favorito e digite a seguinte url
+# Abra o seu navegador e acesse
 $ localhost:5500
 
 ```
